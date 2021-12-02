@@ -1,0 +1,24 @@
+
+
+.card-img-top {
+  margin-top: 50px;
+  width: 180px !important;
+  height: 300px !important;
+  object-fit: cover;
+}
+
+.characterDisplay {
+  display: flex;
+  align-items: center;
+}
+
+.characterSize {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.charaName {
+  text-align: center;
+  width: 180px;
+  height: 80px;
+}
